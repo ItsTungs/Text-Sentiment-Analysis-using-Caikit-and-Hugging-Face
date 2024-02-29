@@ -1,6 +1,6 @@
 # Text Sentiment Analysis using Caikit and Hugging Face
 
-![Chatbot Illustration]([https://img.hotimg.com/IBMSkillsNetwork-GPXX0TGVEN-Certificate-_-Cognitive-Class_page-0001.jpeg](https://img.hotimg.com/Sertif-IL.png))
+![Chatbot Illustration](https://img.hotimg.com/IBMSkillsNetwork-GPXX0TGVEN-Certificate-_-Cognitive-Class_page-0001.jpeg](https://img.hotimg.com/Sertif-IL.png)
 
 **Author:** Cognitive Class AI
 
